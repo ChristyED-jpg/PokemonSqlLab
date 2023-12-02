@@ -8,3 +8,4 @@
  SELECT COUNT(*) as number_of_types FROM types;
  --5
   SELECT COUNT(*) as number_secondary_type FROM pokemons Where secondary_type IS NOT NULL;
+
